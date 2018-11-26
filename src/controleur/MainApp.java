@@ -25,7 +25,6 @@ private ObservableList<Etudiant> EtudiantDonnee = FXCollections.observableArrayL
 /**
 * Constructeur
 */
-//oscour
 public MainApp() {
 // Add some sample data
 EtudiantDonnee.add(new Etudiant("Armand", "Julien", "SLAM", "Demi pensionnaire"));
